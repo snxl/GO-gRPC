@@ -1,0 +1,4 @@
+go get github.com/ktr0731/evans
+go install github.com/ktr0731/evans
+
+evans -r repl --host localhost --port 5001
